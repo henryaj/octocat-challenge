@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The 'upstream' remote is usually the one you push to and pull from (particularly the default remote that is used for a ```git push``` or ```git pull``` without arguments). In terms of using GitHub, that makes the remote hosted on GitHub 'upstream' to your local repo (which is itself 'downstream' of the GitHub remote).
