@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a separate, parallel version of the files in a git repository. When created, a branch will be identical to the branch is it created from -- but from that point onwards, any changes made to the branch will not be made on the branch it was created from. ```git checkout``` can be used to switch between branches on your local machine.
