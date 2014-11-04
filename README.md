@@ -1,7 +1,7 @@
 | [*Makers Academy*](http://www.makersacademy.com) | Week 2 |
 | ------------------------------------------------ | ------ |
 
-# octocat-challenge
+# Octocat
 
 Friday challenge from week 2 at Makers Academy.
 
